@@ -1,0 +1,18 @@
+
+body{
+    background-color:beige;
+    background-size: 100% 100%;
+    background-image: url("5-.jpg");
+
+
+}
+h1{
+    font-size: 30pt;
+    text-align: center;
+    color: white;
+}
+p{
+    color:white;
+}
+
+
